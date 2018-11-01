@@ -35,6 +35,10 @@
     "nodemailer": "^4.4.1",
     "request-promise": "^4.1.1",
     "string-natural-compare": "^1.1.1",
-    "xml2js": "^0.4.16"
+    "xml2js": "^0.4.16",
+
+    "ajv": "^5.1.5",
+    "duration-js": "^4.0.0",
+    "vect": "^1.0.0"
   }
 }

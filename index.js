@@ -22,6 +22,7 @@ module.exports =
     	.concat(require("./src/storage"))
         .concat(require("./src/sendmail"))
         .concat(require("./src/profile"))
+		.concat(require("./src/bbn"))
 
 
     
